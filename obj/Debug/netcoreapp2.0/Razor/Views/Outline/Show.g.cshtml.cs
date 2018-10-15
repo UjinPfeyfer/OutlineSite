@@ -133,7 +133,7 @@ using Challenge24.Models.ManageViewModels;
             WriteLiteral("\r\n        </dt>\r\n        <dd>\r\n            ");
             EndContext();
             BeginContext(642, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("markdown", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f120f52ce73d4d02b4346e4242cab57d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("markdown", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "16689ffcf36648fab3530473775db5fe", async() => {
                 BeginContext(653, 39, false);
 #line 29 "C:\Users\Евгений\source\repos\Challenge24\Challenge24\Views\Outline\Show.cshtml"
                  Write(Html.DisplayFor(model => model.Content));
@@ -177,7 +177,7 @@ using Challenge24.Models.ManageViewModels;
             WriteLiteral("\r\n        </dd>\r\n\r\n\r\n    </dl>\r\n</div>\r\n\r\n<div>\r\n    ");
             EndContext();
             BeginContext(932, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8aa4ce1a324b4cd29da9ba31210765c2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "479312f191ed490c94db9109c3551654", async() => {
                 BeginContext(985, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -212,7 +212,7 @@ using Challenge24.Models.ManageViewModels;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1001, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27ef776ccd4447bd9dd2b677d6f9d0ec", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b0c24dc06a98433685e9ba0b1ad77942", async() => {
                 BeginContext(1023, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
@@ -234,7 +234,7 @@ using Challenge24.Models.ManageViewModels;
             WriteLiteral("\r\n</div>\r\n\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1062, 207, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b8d92ff25d4746f5aa2f044889f552ed", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6826c7cba8eb4295aa0a086f5a7cffeb", async() => {
                 BeginContext(1086, 55, true);
                 WriteLiteral("\r\n        <input type=\"hidden\" id=\"ID\" name=\"OutlineId\"");
                 EndContext();
